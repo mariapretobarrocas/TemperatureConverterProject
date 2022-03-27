@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6yeWzm3qDbV6cP5krZAZdrFkKeluuDseltZnq/f3nlExqgZgbfEjf1tvaq3Hh7Cc6WHrMpcIk3bA9X+qBnePcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria.preto\\Downloads\\TemperatureConverter\\TemperatureConverter\\TemperatureConverter\\TemperatureConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria.preto\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
